@@ -1,0 +1,11 @@
+{
+  "name": "t10k-tracker",
+  "version": "1.0.0",
+  "description": "Toronto 10K Sub-57 Training Tracker with Strava Integration",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
